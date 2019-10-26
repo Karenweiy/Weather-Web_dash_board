@@ -21,6 +21,7 @@
 }
 
 .navbar-expand-lg {
+  left:150px; 
   -ms-flex-flow: row nowrap;
   flex-flow: row nowrap;
   -ms-flex-pack: start;
